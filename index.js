@@ -1,6 +1,6 @@
 var ddb = require('dynamodb').ddb({
-      accessKeyId:'AKIAITVGSV4RKN6IAWZA',
-      secretAccessKey: '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',
+      accessKeyId:'xxx',
+      secretAccessKey: 'xxx',
       endpoint: "dynamodb.us-east-1.amazonaws.com" });
 
 var app = require('express')();
